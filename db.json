@@ -1,0 +1,12 @@
+[
+  {
+    "activeUrls": [
+      {
+        "url": "https://chatgpt.com/",
+        "searchParams": {},
+        "status": "valid"
+      }
+    ],
+    "blacklistedUrls": []
+  }
+]
